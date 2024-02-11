@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  observe:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-12T00:17:19.470491822+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 0590b539468e85aab303ad3919c13a7f94b81ab85ff77edcc551bc71689c5788
+    name: observe
+    type: application
+    urls:
+    - http://Abbashozefa.github.io/helm-charts/observe-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-12T00:17:19.470160678+05:30"
